@@ -1,9 +1,0 @@
-{
-  "name": "taller-mecanico",
-  "version": "1.0.0",
-  "private": true,
-  "description": "App de registro de vehículos y servicios para un taller mecánico",
-  "dependencies": {
-    "nodemailer": "^6.9.0"
-  }
-}
